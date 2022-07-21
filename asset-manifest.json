@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/huahoangphuc4201/hhp-reactapp.git/static/css/main.306fa68b.css",
-    "main.js": "/huahoangphuc4201/hhp-reactapp.git/static/js/main.710e51fd.js",
-    "static/js/787.28cb0dcd.chunk.js": "/huahoangphuc4201/hhp-reactapp.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/background.jpg": "/huahoangphuc4201/hhp-reactapp.git/static/media/background.994e84575bfb7cc23f32.jpg",
-    "index.html": "/huahoangphuc4201/hhp-reactapp.git/index.html",
-    "main.306fa68b.css.map": "/huahoangphuc4201/hhp-reactapp.git/static/css/main.306fa68b.css.map",
-    "main.710e51fd.js.map": "/huahoangphuc4201/hhp-reactapp.git/static/js/main.710e51fd.js.map",
-    "787.28cb0dcd.chunk.js.map": "/huahoangphuc4201/hhp-reactapp.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/hhp-reactapp/static/css/main.84e4bac9.css",
+    "main.js": "/hhp-reactapp/static/js/main.6279c1eb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hhp-reactapp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.jpg": "/hhp-reactapp/static/media/background.994e84575bfb7cc23f32.jpg",
+    "index.html": "/hhp-reactapp/index.html",
+    "main.84e4bac9.css.map": "/hhp-reactapp/static/css/main.84e4bac9.css.map",
+    "main.6279c1eb.js.map": "/hhp-reactapp/static/js/main.6279c1eb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hhp-reactapp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.306fa68b.css",
-    "static/js/main.710e51fd.js"
+    "static/css/main.84e4bac9.css",
+    "static/js/main.6279c1eb.js"
   ]
 }
